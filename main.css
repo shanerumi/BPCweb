@@ -254,7 +254,6 @@ footer {
     border-top: 1px solid #2e7d32;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -280,3 +279,4 @@ footer {
         height: 40px;
     }
 }
+
